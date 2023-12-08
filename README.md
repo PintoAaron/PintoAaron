@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pintoaaron&label=Profile%20views&color=0e75b6&style=flat" alt="pintoaaron" /> </p>
 
-- 🌱 I’m currently learning **C#,.NET**
+- 🌱 I’m currently working with Quantum Groups Ltd**
 
-- 💬 Ask me about **python,django,react native**
+- 💬 Ask me about **python,django,Fast API**
 
 - 📫 How to reach me **aaronpinto111@gmail.com**
 
